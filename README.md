@@ -6,4 +6,4 @@
 ## 使用
 打开psd即可使用
 ### 成品图片一览
-![image](https://github.com/ykidoMKI/yk_test/blob/main/%E6%88%90%E5%93%81.png)
+![](https://cdn.jsdelivr.net/gh/wqoijdx/Pics/%E6%88%90%E5%93%81.png)
