@@ -1,7 +1,7 @@
 # 卡片战斗先导者VGD主轴一览图
 
 ## 安装
-1.下载photoshop  2.clone本项目到本地
+1.下载photoshop  <br>2.clone本项目到本地
 
 ## 使用
 打开psd即可使用
