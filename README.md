@@ -1,9 +1,12 @@
-# 卡片战斗先导者VGD主轴一览图
+# CardFight!! Vanguard! 卡片战斗先导者
+## VGD主V一览图
 
-## 安装
-1.下载photoshop  <br>2.clone本项目到本地
+### 前置准备
+1.下载并安装photoshop任意版本  <br>
+2.clone本项目到本地
 
-## 使用
+### 编辑
 打开psd即可使用
+
 ### 成品图片一览
 ![](https://cdn.jsdelivr.net/gh/wqoijdx/Pics/%E6%88%90%E5%93%81.png)
