@@ -9,4 +9,4 @@
 打开psd即可使用
 
 ### 成品图片一览
-![](https://cdn.jsdelivr.net/gh/wqoijdx/Pics/VG/%E6%88%90%20%E5%93%81.png)
+![image](https://github.com/ykidoMKI/yk_test/blob/main/%E6%88%90%E5%93%81.png)
